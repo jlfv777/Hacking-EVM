@@ -2,6 +2,10 @@
 
 This is a repository where will there are some examples to hack smart contracts and EVM 🥷🏻
 
+## ABI y EVM Bytecode 💻
+
+![ABI]()
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
