@@ -12,7 +12,7 @@ The bytecode of EVM is a programming language that is the result of the compilat
 
 Encode input to get a result with Keccak-256 giving a hash of the wroten elements.
 
-![emn178]()
+![emn178](https://raw.githubusercontent.com/RafaBlockDev/Hacking-EVM/main/lib/images/emn178.png)
 
 ## Advanced Sample Hardhat Project
 
