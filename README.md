@@ -8,7 +8,13 @@ The bytecode of EVM is a programming language that is the result of the compilat
 
 ![ABI](https://raw.githubusercontent.com/RafaBlockDev/Hacking-EVM/main/lib/images/ABI.png)
 
-# Advanced Sample Hardhat Project
+## ONLINE TOOLS
+
+Encode input to get a result with Keccak-256 giving a hash of the wroten elements.
+
+![emn178]()
+
+## Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
